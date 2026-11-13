@@ -113,7 +113,7 @@ LiSkill-2026/
 ├── data/
 │   ├── agent_skills/
 │   │   └── skills_demo.jsonl   # Table 3: 1,484-skill sample of the collection
-│   ├── spdx_licenses/          # §3.1.2: licences.json, texts.jsonl, SPDX_list.txt
+│   ├── spdx_licenses/          # §3.1.2: licences.json, texts.jsonl
 │   └── license_term_attitude/  # §3.3: annotated train / valid / test split
 ├── examples/skills/            # Figure 2's example skill + three other declaration shapes
 ├── tests/                      # 91 tests: ontology, extraction, matrix, detectors, metrics, collectors
