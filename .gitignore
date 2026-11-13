@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# ---- local artifacts / demo output ----
+out/
+runs/
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- data: the 6.2 GB full dump is kept outside the repository, only the
+# ---- released demo sample, the SPDX corpus and the annotation sets are tracked
+data/**
+!data/agent_skills/
+!data/agent_skills/skills_demo.jsonl
+!data/license_term_attitude/
+!data/license_term_attitude/*.json
+!data/spdx_licenses/
+!data/spdx_licenses/licenses.json
+!data/spdx_licenses/texts.jsonl
+
+# ---- secrets & local-only notes (never commit) ----
+.env
+*.local.md

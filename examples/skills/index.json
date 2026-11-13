@@ -1,0 +1,38 @@
+[
+  {
+    "skill_id": "example:frontend-design",
+    "name": "frontend-design",
+    "dir": "frontend-design",
+    "platform": "example",
+    "repo_license": "Apache-2.0",
+    "repo_url": "https://github.com/example/frontend-design",
+    "description": "Generate production-ready frontend components from a design brief."
+  },
+  {
+    "skill_id": "example:pdf-report",
+    "name": "pdf-report",
+    "dir": "pdf-report",
+    "platform": "example",
+    "repo_license": null,
+    "repo_url": "https://github.com/example/pdf-report",
+    "description": "Render a structured data set into a paginated PDF report."
+  },
+  {
+    "skill_id": "example:data-connector",
+    "name": "data-connector",
+    "dir": "data-connector",
+    "platform": "example",
+    "repo_license": "MIT",
+    "repo_url": "https://github.com/example/data-connector",
+    "description": "Connect to an SQL warehouse and return the result as structured rows."
+  },
+  {
+    "skill_id": "example:web-scraper",
+    "name": "web-scraper",
+    "dir": "web-scraper",
+    "platform": "example",
+    "repo_license": null,
+    "repo_url": null,
+    "description": "Fetch a page, extract the article body and return it as Markdown."
+  }
+]

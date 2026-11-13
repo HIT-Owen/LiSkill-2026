@@ -1,0 +1,12 @@
+Example Corp — Proprietary Skill License
+
+Copyright (c) 2026 Example Corp. All rights reserved.
+
+This skill and its source code are proprietary and confidential.
+
+You may not copy, modify, distribute, sublicense, or reverse engineer this
+software without the prior written permission of the copyright holder.
+
+Commercial use requires a separate paid license agreement.
+
+Redistribution of this software in source or binary form is prohibited.
